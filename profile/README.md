@@ -1,10 +1,18 @@
-## Hi there 👋
+# Laboratorio CES 🧪
 
-**Here are some ideas to get you started:**
+Laboratorio CES se dedica a analizar diversas necesidades y desarrollar soluciones para abordarlas.
 
-* 🙋‍♀️ A short introduction - what is your organization all about?
-* 🌈 Contribution guidelines - how can the community get involved?
-* 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-* 🍿 Fun facts - what does your team eat for breakfast?
-* 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+## Objetivo
 
+El objetivo del Laboratorio CES es crear diversas herramientas que agreguen valor tanto al testing manual como al automatizado. Estas herramientas se desarrollan en respuesta a las necesidades identificadas por los testers en su trabajo diario y cuentan con el respaldo del CES.
+
+## TimeTracker 
+
+Existen los siguientes proyectos en TT para registrar las horas segun la herramienta que se este desarrollando.
+
+|Proyecto|
+|--------|
+|Labs - Procesos|
+|Labs - reporte xunit|
+|Labs - herramientas testing funcional|
+|Labs - core|
